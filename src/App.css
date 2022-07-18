@@ -1,5 +1,7 @@
-div{
+.content{
   width: 500px;
   background-color: lightgrey;
-  padding: 15px, 5px, 15px, 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
 }
